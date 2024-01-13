@@ -1,6 +1,6 @@
 # Awesome Readwise
 
-A curated list of awesome Readwise (and Reader) libraries, plugins, software, and resources.
+A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://readwise.io/read) libraries, plugins, software, and resources.
 
 For a list of official software check out [Readwise.io's GitHub Page.](https://github.com/readwiseio)
 
@@ -63,7 +63,6 @@ Import articles saved to Readwise Reader to Pinboard.
 
 - [Readform](https://github.com/fr0der1c/Readform) - Send full articles content - Sending full article content of paywalled news websites right into your Readwise Reader feed to help you get a unified reading workflow.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
-
 - [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - Simple electron app for Readwise Reader web application.
 - [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) - An enhanced version of Readwise Reader UI for Arc browser Boost.
 - [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
