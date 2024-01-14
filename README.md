@@ -21,6 +21,10 @@ A list of client libraries for both the *Readwis API* and the *Readwise Reader A
 - [readwise-api](https://github.com/floscha/readwise-api) - An unofficial Python client for the Readwise Reader API.
 - [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) - Use Readwise Reader 📖 in the Command-line (CLI) 💻.
 
+**Ruby:**
+
+- [readwise-ruby](https://github.com/joshbeckman/readwise-ruby) - Minimal Readwise API client and highlight parsing library
+
 **Node.js:**
 
 - [readwise-reader-api](https://github.com/Scarvy/readwise-reader-api) - An unofficial JS/TS client for the Readwise Reader API.
