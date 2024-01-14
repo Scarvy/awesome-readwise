@@ -12,7 +12,7 @@ For a list of official software check out [Readwise.io's GitHub Page.](https://g
 
 ## Client Libraries
 
-A list of client libraries for both the *Readwis API* and the *Readwise Reader API*.
+A list of client libraries for both the *Readwise API* and the *Readwise Reader API*.
 
 ### Readwise Reader API
 
