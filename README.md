@@ -50,7 +50,7 @@ A collection of Readwise and Reader open-source tools.
 ### Anki
 
 - [readwise-anki](https://github.com/mattbarlow-sg/readwise-anki) - unofficial Readwise Add-on For Anki.
-- [readwise2anki](ethan-butler-alight/readwise2anki) - An Anki plugin used to export Readwise highlights to Anki.
+- [readwise2anki](https://github.com/ethan-butler-alight/readwise2anki) - An Anki plugin used to export Readwise highlights to Anki.
 
 ### Blinkist
 
