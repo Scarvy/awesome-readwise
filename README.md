@@ -5,8 +5,8 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
 - [Awesome Readwise](#awesome-readwise)
   - [Client Libraries](#client-libraries)
   - [Tools](#tools)
-  - [Resources](#resources)
   - [Third-Party Integrations](#third-party-integrations)
+  - [Resources](#resources)
   - [Contributing](#contributing)
 
 ## Client Libraries
