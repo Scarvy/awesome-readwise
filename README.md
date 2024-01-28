@@ -108,6 +108,12 @@ A collection of open-source tools for Readwise and Reader.
 
 - [Readwise2Roam](https://github.com/jammastergirish/Readwise2Roam) - Migrate your Readwise highlights to Roam Research.
 
+### Shortcuts (for iPhone and iPad)
+
+- [Get Highlights by Tag](https://www.icloud.com/shortcuts/12d0498af6824660aef1c625f51fedc2) - View highlights based on tags.
+- [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
+- [PodNote](https://www.icloud.com/shortcuts/1c13a7d9b33b4b6d85231b1c7d572b35) - A shortcut to highlight sections of podcasts.
+
 ### Shortform
 
 - [shortform-to-readwise](https://github.com/nicolevanderhoeven/shortform-to-readwise) - Import highlights from Shortform.com.
@@ -157,12 +163,6 @@ A collection of open-source tools for Readwise and Reader.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
 - [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
 
-## Shortcuts (for iPhone and iPad)
-
-- [Get Highlights by Tag](https://www.icloud.com/shortcuts/12d0498af6824660aef1c625f51fedc2) - View highlights based on tags.
-- [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
-- [PodNote](https://www.icloud.com/shortcuts/1c13a7d9b33b4b6d85231b1c7d572b35) - A shortcut to highlight sections of podcasts.
-
 ## Third-Party Integrations
 
 - [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
@@ -170,13 +170,23 @@ A collection of open-source tools for Readwise and Reader.
 
 ## Resources
 
-- [Reader Filter Guide 📖](https://readwise.notion.site/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640) - A how-to guide for document filtering and syntax in Reader.
+A collection of official resources and content.
+
+### Official Channels
+
 - [Blog](https://blog.readwise.io/) - The official Readwise blog.
 - [YouTube](https://www.youtube.com/@readwise-official/playlists) - The official Readwise YouTube channel.
   - [Onboarding Materials](https://www.youtube.com/playlist?list=PLF-dRXiEENypisIeJV4aik6NSNfoM3VI1) - A tutorial on how to set up and use Reader.
-- [Wisereads](https://wise.readwise.io/) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
-- [FAQ](https://help.readwise.io/) - The official Readwise FAQ page.
+
+### Feedback & FAQ
+
 - [Customer Feedback & Feature Request Board](https://readwise.canny.io/) - The official customer feedback page.
+- [FAQ](https://help.readwise.io/) - The official Readwise FAQ page.
+
+### Content & Guides
+
+- [Wisereads](https://wise.readwise.io/) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
+- [Reader Filter Guide 📖](https://readwise.notion.site/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640) - A how-to guide for document filtering and syntax in Reader.
 
 ## Contributing
 
