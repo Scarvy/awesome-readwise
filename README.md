@@ -36,6 +36,11 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 - [Readwise](https://readwise.io/api_deets)
 - [Readwise Reader](https://readwise.io/reader_api)
 
+### API Endpoint Collections
+
+- [readwise-postman](https://github.com/herczogzoltan/readwise-postman) - A Postman collection for Readwise API endpoints.
+- [readwise-bruno](https://github.com/Scarvy/readwise-bruno) - A Bruno collection for Readwise and Reader API endpoints.
+
 ## Tools
 
 A collection of open-source tools for Readwise and Reader.
@@ -45,15 +50,28 @@ A collection of open-source tools for Readwise and Reader.
 - [smoothbrain-anki](https://github.com/smoothbrain-ai/smoothbrain-anki) - An Anki plugin to create flashcards from Readwise highlights using the OpenAI GPT.
 - [readwise-chat](https://github.com/acmeyer/readwise-chat) - A chatbot that pulls highlights from your Readwise account, using the ChatGPT API.
 - [quoordinates](https://github.com/bramses/quoordinates) - A tool to visualize Kindle Highlights from Readwise using OpenAI Embeddings.
+- [readwise-highlights-chat](https://github.com/intellectronica/readwise-highlights-chat/tree/main) - Chat over highlights with OpenAI, LangChain, and Chroma.
 
 ### Anki
 
 - [readwise-anki](https://github.com/mattbarlow-sg/readwise-anki) - An unofficial Readwise add-on for Anki.
 - [readwise2anki](https://github.com/ethan-butler-alight/readwise2anki) - An Anki plugin to export Readwise highlights to Anki decks.
 
+### Amplenote
+
+- [readwise](https://github.com/alloy-org/readwise) - Amplenote Readwise integration.
+
 ### Blinkist
 
 - [Blinkist-to-Readwise](https://github.com/tibobrc/Blinkist-to-Readwise) - Tool to extract highlights from your Blinkist account and upload them to Readwise or download them as a CSV file.
+
+### Calibre
+
+- [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) - An export plugin for Calibre.
+
+### Datasette
+
+- [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Kobo
 
@@ -82,18 +100,34 @@ A collection of open-source tools for Readwise and Reader.
 - [reader2pinboard](https://github.com/moefuerst/reader2pinboard) - Import articles saved in Readwise Reader to Pinboard.
 - [reader_to_pinboard](https://github.com/basepi/reader_to_pinboard) - A script for sending archived Readwise Reader items to Pinboard.
 
+### RemNote
+
+- [remnote-readwise](https://github.com/bjsi/remnote-readwise) - Sync your Readwise highlights into RemNote.
+
 ### Roam
 
 - [Readwise2Roam](https://github.com/jammastergirish/Readwise2Roam) - Migrate your Readwise highlights to Roam Research.
+
+### Shortform
+
+- [shortform-to-readwise](https://github.com/nicolevanderhoeven/shortform-to-readwise) - Import highlights from Shortform.com.
 
 ### Telegram
 
 - [readwise_telegram_bot](https://github.com/ixnet/readwise_telegram_bot) - A bot for Telegram integration.
 
+### Wallabag
+
+- [wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize Wallabag annotations to Readwise highlights.
+
 ### Weread
 
 - [weread-to-readwise](https://github.com/wogong/weread-to-readwise) - Convert Weread notes into a CSV file compatible with Readwise.
 - [wereadwise](https://github.com/fuergaosi233/wereadwise) - Export Weread highlights to Readwise.
+
+### Workflowy
+
+- [readwise-workflowy-integration](https://github.com/zackdn/readwise-workflowy-integration) - Import Readwise notes directly into Workflowy.
 
 ### Zotero
 
@@ -102,33 +136,32 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Other
 
-- [readwise](https://github.com/alloy-org/readwise) - Amplenote Readwise integration.
 - [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) - An Alfred Workflow for your Readwise account.
-- [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) - An export plugin for Calibre.
 - [comments-to-readwise](https://github.com/marcus-crane/comments-to-readwise) - A basic extension for sending comments to Readwise as "tweets".
 - [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
-- [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) - A script using Readwise API endpoints to create a Word document from Kindle highlights stored in your Readwise account.
+- [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) - Create a Word document from your highlights.
 - [mem-readwise-sync](https://github.com/riclib/mem-readwise-sync) - Sync books, articles, and highlights to Mem.ai.
 - [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
 - [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) - Export Miniflux articles to Readwise Reader.
-- [shortform-to-readwise](https://github.com/nicolevanderhoeven/shortform-to-readwise) - Import highlights from Shortform.com.
-- [Readform](https://github.com/fr0der1c/Readform) - Send the full article content of paywalled news websites directly into your Readwise Reader feed for a unified reading workflow.
+- [Readform](https://github.com/fr0der1c/Readform) - Send the full article content of paywalled news websites directly into your Readwise Reader feed.
 - [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - A CLI application to sync your Readwise highlights to local files.
 - [readwise2directory](https://github.com/nicrivard/readwise2directory) - Fetch new highlights from Readwise and create or update markdown files in a directory (e.g., Dropbox).
 - [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
 - [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
-- [readwise-postman](https://github.com/herczogzoltan/readwise-postman) - A Postman collection for Readwise API endpoints.
-- [readwise-workflowy-integration](https://github.com/zackdn/readwise-workflowy-integration) - Import your Readwise notes directly into Workflowy with just a click!
 - [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
 - [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
 - [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Extract highlights from a given (markdown) file and upload them to Readwise.
-- [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract Readwise highlights into a Datasette SQLite database.
-- [remnote-readwise](https://github.com/bjsi/remnote-readwise) - Sync your Readwise highlights into RemNote.
 - [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
-- [wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize Wallabag annotations to Readwise highlights.
-- [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise, using the folder name as the book title.
+- [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
+- [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
+- [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
+
+## Shortcuts (for iPhone and iPad)
+
+- [Get Highlights by Tag](https://www.icloud.com/shortcuts/12d0498af6824660aef1c625f51fedc2) - View highlights based on tags.
 - [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
+- [PodNote](https://www.icloud.com/shortcuts/1c13a7d9b33b4b6d85231b1c7d572b35) - A shortcut to highlight sections of podcasts.
 
 ## Third-Party Integrations
 
@@ -142,6 +175,8 @@ A collection of open-source tools for Readwise and Reader.
 - [YouTube](https://www.youtube.com/@readwise-official/playlists) - The official Readwise YouTube channel.
   - [Onboarding Materials](https://www.youtube.com/playlist?list=PLF-dRXiEENypisIeJV4aik6NSNfoM3VI1) - A tutorial on how to set up and use Reader.
 - [Wisereads](https://wise.readwise.io/) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
+- [FAQ](https://help.readwise.io/) - The official Readwise FAQ page.
+- [Customer Feedback & Feature Request Board](https://readwise.canny.io/) - The official customer feedback page.
 
 ## Contributing
 
