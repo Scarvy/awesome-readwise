@@ -100,6 +100,11 @@ A collection of open-source tools for Readwise and Reader.
 - [reader2pinboard](https://github.com/moefuerst/reader2pinboard) - Import articles saved in Readwise Reader to Pinboard.
 - [reader_to_pinboard](https://github.com/basepi/reader_to_pinboard) - A script for sending archived Readwise Reader items to Pinboard.
 
+### Raycast
+
+- [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)
+- [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise)
+
 ### RemNote
 
 - [remnote-readwise](https://github.com/bjsi/remnote-readwise) - Sync your Readwise highlights into RemNote.
