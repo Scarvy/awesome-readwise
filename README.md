@@ -63,7 +63,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Blinkist
 
-- [Blinkist-to-Readwise](https://github.com/tibobrc/Blinkist-to-Readwise) - Tool to extract highlights from your Blinkist account and upload them to Readwise or download them as a CSV file.
+- [Blinkist-to-Readwise](https://github.com/tibobrc/Blinkist-to-Readwise) - Export highlights to Readwise.
 
 ### Calibre
 
@@ -102,16 +102,16 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-- [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)
-- [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise)
+- [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) - extension to interact with Reader.
+- [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) - extension to interact with Readwise.
 
 ### RemNote
 
-- [remnote-readwise](https://github.com/bjsi/remnote-readwise) - Sync your Readwise highlights into RemNote.
+- [remnote-readwise](https://github.com/bjsi/remnote-readwise) - Sync Readwise highlights into RemNote.
 
 ### Roam
 
-- [Readwise2Roam](https://github.com/jammastergirish/Readwise2Roam) - Migrate your Readwise highlights to Roam Research.
+- [Readwise2Roam](https://github.com/jammastergirish/Readwise2Roam) - Migrate Readwise highlights to Roam Research.
 
 ### Shortcuts (for iPhone and iPad)
 
@@ -154,15 +154,15 @@ A collection of open-source tools for Readwise and Reader.
 - [mem-readwise-sync](https://github.com/riclib/mem-readwise-sync) - Sync books, articles, and highlights to Mem.ai.
 - [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
 - [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) - Export Miniflux articles to Readwise Reader.
-- [Readform](https://github.com/fr0der1c/Readform) - Send the full article content of paywalled news websites directly into your Readwise Reader feed.
-- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - A CLI application to sync your Readwise highlights to local files.
-- [readwise2directory](https://github.com/nicrivard/readwise2directory) - Fetch new highlights from Readwise and create or update markdown files in a directory (e.g., Dropbox).
+- [Readform](https://github.com/fr0der1c/Readform) - Send full articles from paywalled news websites to Reader feed.
+- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
+- [readwise2directory](https://github.com/nicrivard/readwise2directory) - Update and store highlights locally (in markdown).
 - [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
 - [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
 - [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
 - [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
-- [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Extract highlights from a given (markdown) file and upload them to Readwise.
+- [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Export markdown highlights to Readwise.
 - [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
 - [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
