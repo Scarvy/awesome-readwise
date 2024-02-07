@@ -197,7 +197,7 @@ A collection of open-source tools for Readwise and Reader.
 - [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
 - [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
-- [scribd](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
+- [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
 
 ## Third-Party Integrations
 
@@ -211,13 +211,13 @@ A selection of products and services integrated with Readwise and/or Reader.
 
 #### Drafts
 
-- [Drafts - Readwise](https://actions.getdrafts.com/a/1fl)
-- [Drafts - Readwise Reader](https://actions.getdrafts.com/a/2E9)
+- [Drafts - Readwise](https://actions.getdrafts.com/a/1fl) - add highlights from Draft to Readwise.
+- [Drafts - Readwise Reader](https://actions.getdrafts.com/a/2E9) - add highlights from Draft to Reader.
 
 ### Podcasts
 
-- [PodHighlighter](https://www.podhighlighter.io/)
-- [snipd](https://www.snipd.com/)
+- [PodHighlighter](https://www.podhighlighter.io/) - Sync podcast highlights to Readwise.
+- [snipd](https://www.snipd.com/) - Highlight, take notes, and summarize your favorite podcasts using AI.
 
 ## Resources
 
