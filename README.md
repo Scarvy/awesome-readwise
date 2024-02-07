@@ -115,9 +115,21 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Shortcuts (for iPhone and iPad)
 
-- [Get Highlights by Tag](https://www.icloud.com/shortcuts/12d0498af6824660aef1c625f51fedc2) - View highlights based on tags.
-- [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
-- [PodNote](https://www.icloud.com/shortcuts/1c13a7d9b33b4b6d85231b1c7d572b35) - A shortcut to highlight sections of podcasts.
+- **Reader & Readwise:**
+
+  - [Batch Save to Readwise Reader](https://www.icloud.com/shortcuts/ba4101ca05ce4a5ebccb857999287a78) - Batch saves links to Readwise Reader.
+  - [Readwise Reader Search](https://www.icloud.com/shortcuts/3f7d49fb62704499ba3b97128c06c383) - Takes text input to search within Readwise Reader.
+  - [Readwise Search](https://www.icloud.com/shortcuts/9536fd1b96c44150ac0255e8a7bdecbc)
+  - [Save to Readwise Reader](https://www.icloud.com/shortcuts/1b0d4bc72603483cbac0a559844713d1) - Takes text input to search within Readwise.
+  - [Show Latest Readwise Highlights](https://www.icloud.com/shortcuts/976c4d2059ea4e869a9e25a648cba2f4) - Displays your latest Readwise highlights.
+  - [Show Readwise Highlights for Tag](https://www.icloud.com/shortcuts/d6e98b5046eb450eb0aceb5234a8b721) - Display Readwise highlights for a specific tag.
+
+  > Note: All shortcuts listed above created by chris.sk. Last updated as of **2023-09-16**. These shortcuts could be outdated as of reading, so see Discord conversation for latest updates [here](https://discord.com/channels/886992134505398314/1092171483792556182).
+
+- **Other Apps:**
+
+  - [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
+  - [PodNote](https://www.icloud.com/shortcuts/1c13a7d9b33b4b6d85231b1c7d572b35) - A shortcut to highlight sections of podcasts.
 
 ### Shortform
 
@@ -126,6 +138,10 @@ A collection of open-source tools for Readwise and Reader.
 ### Telegram
 
 - [readwise_telegram_bot](https://github.com/ixnet/readwise_telegram_bot) - A bot for Telegram integration.
+
+### Twitter
+
+- [SaveToReadwiseReaderOnTwitter](https://github.com/floriankilian/SaveToReadwiseReaderOnTwitter) - save tweets to Readwise Reader.
 
 ### Wallabag
 
@@ -170,8 +186,21 @@ A collection of open-source tools for Readwise and Reader.
 
 ## Third-Party Integrations
 
+A collection of productd and services with Readwise and/ or Reader integrations.
+
 - [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
   - [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
+
+### Notes Apps
+
+- [Drafts](https://getdrafts.com/)
+  - [Readwise](https://actions.getdrafts.com/a/1fl)
+  - [Readwise Reader](https://actions.getdrafts.com/a/2E9)
+
+### Podcasts
+
+- [PodHighlighter](https://www.podhighlighter.io/)
+- [snipd](https://www.snipd.com/)
 
 ## Resources
 
