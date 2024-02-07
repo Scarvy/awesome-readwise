@@ -128,7 +128,7 @@ A collection of open-source tools for Readwise and Reader.
   - [Show Latest Readwise Highlights](https://www.icloud.com/shortcuts/976c4d2059ea4e869a9e25a648cba2f4) - Displays your latest Readwise highlights.
   - [Show Readwise Highlights for Tag](https://www.icloud.com/shortcuts/d6e98b5046eb450eb0aceb5234a8b721) - Display Readwise highlights for a specific tag.
 
-  > Note: All shortcuts listed above created by chris.sk. Last updated as of **2023-09-16**. These shortcuts could be outdated as of reading, so see Discord conversation for latest updates [here](https://discord.com/channels/886992134505398314/1092171483792556182).
+  > Note: All of the shortcuts listed above were created by Chris.sk and were last updated on **2023-09-16**. These shortcuts may become outdated over time, so please refer to the Discord conversation for the most recent updates. [here](https://discord.com/channels/886992134505398314/1092171483792556182).
 
 - **Other Apps:**
 
