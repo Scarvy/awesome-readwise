@@ -128,7 +128,8 @@ A collection of open-source tools for Readwise and Reader.
   - [Show Latest Readwise Highlights](https://www.icloud.com/shortcuts/976c4d2059ea4e869a9e25a648cba2f4) - Displays your latest Readwise highlights.
   - [Show Readwise Highlights for Tag](https://www.icloud.com/shortcuts/d6e98b5046eb450eb0aceb5234a8b721) - Display Readwise highlights for a specific tag.
 
-  > Note: All of the shortcuts listed above were created by Chris.sk and were last updated on **2023-09-16**. These shortcuts may become outdated over time, so please refer to the Discord conversation for the most recent updates. [here](https://discord.com/channels/886992134505398314/1092171483792556182).
+  > Note: All of the shortcuts listed above were created by Chris.sk and were last updated on **2023-09-16**.
+  > These shortcuts may become outdated over time, so please refer to the Discord conversation for the most recent updates. [here](https://discord.com/channels/886992134505398314/1092171483792556182).
 
 - **Other Apps:**
 
@@ -186,21 +187,21 @@ A collection of open-source tools for Readwise and Reader.
 - [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
 - [readwise-feed](https://github.com/jckw/readwise-feed) - A passive social media feed of user's reading activity.
+- [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
+- [readwise-list](https://github.com/rockiedo/readwise-lite) - A minimal version of the Readwise app.
+- [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Export markdown highlights to Readwise.
 - [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
 - [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
 - [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
-- [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Export markdown highlights to Readwise.
 - [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
 - [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
-- [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
 - [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
-- [readwise-list](https://github.com/rockiedo/readwise-lite) - A minimal version of the Readwise app.
 - [scribd](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
 
 ## Third-Party Integrations
 
-A collection of products and services with Readwise and/ or Reader integrations.
+A selection of products and services integrated with Readwise and/or Reader.
 
 - [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
   - [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
@@ -208,9 +209,10 @@ A collection of products and services with Readwise and/ or Reader integrations.
 
 ### Notes Apps
 
-- [Drafts](https://getdrafts.com/)
-  - [Readwise](https://actions.getdrafts.com/a/1fl)
-  - [Readwise Reader](https://actions.getdrafts.com/a/2E9)
+#### Drafts
+
+- [Drafts - Readwise](https://actions.getdrafts.com/a/1fl)
+- [Drafts - Readwise Reader](https://actions.getdrafts.com/a/2E9)
 
 ### Podcasts
 
