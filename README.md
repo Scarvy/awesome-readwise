@@ -214,7 +214,7 @@ A selection of products and services integrated with Readwise and/or Reader.
 - [Drafts - Readwise](https://actions.getdrafts.com/a/1fl) - add highlights from Draft to Readwise.
 - [Drafts - Readwise Reader](https://actions.getdrafts.com/a/2E9) - add highlights from Draft to Reader.
 
-### Podcasts
+#### Podcasts
 
 - [PodHighlighter](https://www.podhighlighter.io/) - Sync podcast highlights to Readwise.
 - [snipd](https://www.snipd.com/) - Highlight, take notes, and summarize your favorite podcasts using AI.
