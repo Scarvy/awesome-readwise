@@ -19,6 +19,10 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 - [pyreadwise](https://github.com/rwxd/pyreadwise) - A Python module for using the Readwise API.
 - [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) - A command-line interface for Readwise Reader.
 
+**Go:**
+
+- [readwise-go](https://github.com/ethanholz/readwise-go) - A wrapper around Readwise API.
+
 **Ruby:**
 
 - [readwise-ruby](https://github.com/joshbeckman/readwise-ruby) - A minimal Readwise API client and highlight parsing library.
@@ -165,16 +169,23 @@ A collection of open-source tools for Readwise and Reader.
 
 - [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) - An Alfred Workflow for your Readwise account.
 - [comments-to-readwise](https://github.com/marcus-crane/comments-to-readwise) - A basic extension for sending comments to Readwise as "tweets".
+- [diiggo-to-readwise](https://github.com/dexter-stpierre/diiggo-to-readwise) - Sync Diigo highlights to Readwise.
 - [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
 - [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) - Create a Word document from your highlights.
 - [mem-readwise-sync](https://github.com/riclib/mem-readwise-sync) - Sync books, articles, and highlights to Mem.ai.
 - [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
 - [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) - Export Miniflux articles to Readwise Reader.
+- [plus-readwise](https://github.com/jchen1/plus-readwise) - Save snippets from the browser to Readwise.
+- [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) - A CLI to export highlights to Tana.io.
+- [raindrop-highlights-readwise](https://github.com/luhmann/raindrop-highlights-readwise) - Import highlights from Raindrop to Readwise.
 - [Readform](https://github.com/fr0der1c/Readform) - Send full articles from paywalled news websites to Reader feed.
 - [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
 - [readwise2directory](https://github.com/nicrivard/readwise2directory) - Update and store highlights locally (in markdown).
+- [readspace](https://github.com/maxprogram/readspace) - A semantic search tool for your Readwise highlights.
+- [readwise-craft-extension](https://github.com/mattflux/readwise-craft-extension?tab=readme-ov-file) - An extension to import highlight to craft.
 - [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
+- [readwise-feed](https://github.com/jckw/readwise-feed) - A passive social media feed of user's reading activity.
 - [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
 - [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
 - [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
@@ -183,13 +194,17 @@ A collection of open-source tools for Readwise and Reader.
 - [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
 - [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
+- [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
+- [readwise-list](https://github.com/rockiedo/readwise-lite) - A minimal version of the Readwise app.
+- [scribd](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
 
 ## Third-Party Integrations
 
-A collection of productd and services with Readwise and/ or Reader integrations.
+A collection of products and services with Readwise and/ or Reader integrations.
 
 - [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
   - [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
+- [PopClip](https://www.popclip.app/extensions/#q=readwise) - Instant text actions to save highlights to Readwise.
 
 ### Notes Apps
 
