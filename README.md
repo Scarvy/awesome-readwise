@@ -238,6 +238,7 @@ A collection of official resources and content.
 
 - [Wisereads](https://wise.readwise.io/) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
 - [Reader Filter Guide 📖](https://readwise.notion.site/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640) - A how-to guide for document filtering and syntax in Reader.
+- (Unoffical)[Ghostreader Prompts](https://github.com/Scarvy/ghostreader-prompts)
 
 ## Contributing
 
