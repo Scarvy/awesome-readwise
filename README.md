@@ -4,9 +4,41 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
 
 - [Awesome Readwise](#awesome-readwise)
   - [Client Libraries](#client-libraries)
+    - [API Documentation](#api-documentation)
+    - [API Endpoint Collections](#api-endpoint-collections)
   - [Tools](#tools)
+    - [AI](#ai)
+    - [Anki](#anki)
+    - [Amplenote](#amplenote)
+    - [Blinkist](#blinkist)
+    - [Calibre](#calibre)
+    - [Datasette](#datasette)
+    - [Kobo](#kobo)
+    - [Logseq](#logseq)
+    - [Obsidian](#obsidian)
+    - [Mastodon](#mastodon)
+    - [Pinboard](#pinboard)
+    - [Raycast](#raycast)
+    - [RemNote](#remnote)
+    - [Roam](#roam)
+    - [Shortcuts (for iPhone and iPad)](#shortcuts-for-iphone-and-ipad)
+    - [Shortform](#shortform)
+    - [Telegram](#telegram)
+    - [Twitter](#twitter)
+    - [Wallabag](#wallabag)
+    - [Weread](#weread)
+    - [Workflowy](#workflowy)
+    - [Zotero](#zotero)
+    - [Other](#other)
   - [Third-Party Integrations](#third-party-integrations)
+    - [Notes Apps](#notes-apps)
+      - [Drafts](#drafts)
+      - [Podcasts](#podcasts)
   - [Resources](#resources)
+    - [Official Channels](#official-channels)
+    - [Feedback \& FAQ](#feedback--faq)
+    - [Content \& Guides](#content--guides)
+    - [Reader for Desktop (Windows \& Mac)](#reader-for-desktop-windows--mac)
   - [Contributing](#contributing)
 
 ## Client Libraries
@@ -198,6 +230,7 @@ A collection of open-source tools for Readwise and Reader.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
 - [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
 - [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
+- [readwise-gpt-tagger](https://github.com/duartemartins/readwise-gpt-tagger) - Export all highlights to CSV, tag them using GPT, and update them on Readwise.
 
 ## Third-Party Integrations
 
