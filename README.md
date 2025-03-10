@@ -3,20 +3,22 @@
 A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://readwise.io/read) libraries, plugins, software, and resources. For official software, visit [Readwise.io's GitHub Page](https://github.com/readwiseio).
 
 - [Awesome Readwise](#awesome-readwise)
+  - [Official apps](#official-apps)
   - [Client Libraries](#client-libraries)
     - [API Documentation](#api-documentation)
     - [API Endpoint Collections](#api-endpoint-collections)
   - [Tools](#tools)
     - [AI](#ai)
-    - [Anki](#anki)
     - [Amplenote](#amplenote)
+    - [Anki](#anki)
     - [Blinkist](#blinkist)
     - [Calibre](#calibre)
     - [Datasette](#datasette)
+    - [Discord](#discord)
     - [Kobo](#kobo)
     - [Logseq](#logseq)
-    - [Obsidian](#obsidian)
     - [Mastodon](#mastodon)
+    - [Obsidian](#obsidian)
     - [Pinboard](#pinboard)
     - [Raycast](#raycast)
     - [RemNote](#remnote)
@@ -41,14 +43,24 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Reader for Desktop (Windows \& Mac)](#reader-for-desktop-windows--mac)
   - [Contributing](#contributing)
 
+## Official Apps
+
+- [Reader web app](https://read.readwise.io/)
+- [Readwise web app](https://readwise.io/)
+- [Reader for Android](https://play.google.com/store/apps/details?id=com.readermobile) – Google Play link.
+- [Readwise for Android](https://play.google.com/store/apps/details?id=com.readwise) – Google Play link.
+- [Reader for iOS and iPad](https://apps.apple.com/us/app/readwise-reader/id1567599761) – App Store link.
+- [Readwise for iOS and iPad](https://apps.apple.com/us/app/readwise/id1476885528) – App Store link (also for Apple Silicon Macs).
+- [Reader for macOS and Windows](https://readwise.io/read/download) - Download page for the “alpha” version of Reader for Desktop. Also installable for macOS via Homebrew: `brew install reader`.
+
 ## Client Libraries
 
 This section lists client libraries for the *Readwise API* and the *Readwise Reader API*.
 
 **Python:**
 
-- [readwise-api](https://github.com/floscha/readwise-api) - An unofficial Python client for the Readwise Reader API.
 - [pyreadwise](https://github.com/rwxd/pyreadwise) - A Python module for using the Readwise API.
+- [readwise-api](https://github.com/floscha/readwise-api) - An unofficial Python client for the Readwise Reader API.
 - [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) - A command-line interface for Readwise Reader.
 
 **Go:**
@@ -83,19 +95,19 @@ A collection of open-source tools for Readwise and Reader.
 
 ### AI
 
-- [smoothbrain-anki](https://github.com/smoothbrain-ai/smoothbrain-anki) - An Anki plugin to create flashcards from Readwise highlights using the OpenAI GPT.
-- [readwise-chat](https://github.com/acmeyer/readwise-chat) - A chatbot that pulls highlights from your Readwise account, using the ChatGPT API.
 - [quoordinates](https://github.com/bramses/quoordinates) - A tool to visualize Kindle Highlights from Readwise using OpenAI Embeddings.
+- [readwise-chat](https://github.com/acmeyer/readwise-chat) - A chatbot that pulls highlights from your Readwise account, using the ChatGPT API.
 - [readwise-highlights-chat](https://github.com/intellectronica/readwise-highlights-chat/tree/main) - Chat over highlights with OpenAI, LangChain, and Chroma.
+- [smoothbrain-anki](https://github.com/smoothbrain-ai/smoothbrain-anki) - An Anki plugin to create flashcards from Readwise highlights using the OpenAI GPT.
+
+### Amplenote
+
+- [readwise](https://github.com/alloy-org/readwise) - Amplenote Readwise integration.
 
 ### Anki
 
 - [readwise-anki](https://github.com/mattbarlow-sg/readwise-anki) - An unofficial Readwise add-on for Anki.
 - [readwise2anki](https://github.com/ethan-butler-alight/readwise2anki) - An Anki plugin to export Readwise highlights to Anki decks.
-
-### Amplenote
-
-- [readwise](https://github.com/alloy-org/readwise) - Amplenote Readwise integration.
 
 ### Blinkist
 
@@ -109,27 +121,35 @@ A collection of open-source tools for Readwise and Reader.
 
 - [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract Readwise highlights into a Datasette SQLite database.
 
+### Discord
+
+- [Readwise Discord bot](https://docs.readwise.io/readwise/docs/faqs/discord-bot) – The official Discord bot lets members save messages, links, and images to their Readwise Library.
+
 ### Kobo
 
-- [kobwise](https://github.com/osteel/kobwise) - Convert Kobo annotations into Readwise highlights.
-- [kobo_readwise](https://github.com/taiansu/kobo_readwise) - Send Kobo eReader bookmarks to Readwise.
 - [kobo-to-readwise](https://github.com/zakkolar/kobo-to-readwise) - Extract highlights from Kobo devices and convert them into a CSV file for Readwise.
+- [kobo_readwise](https://github.com/taiansu/kobo_readwise) - Send Kobo eReader bookmarks to Readwise.
+- [kobwise](https://github.com/osteel/kobwise) - Convert Kobo annotations into Readwise highlights.
 - [october](https://github.com/marcus-crane/october) - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
+
+### LaunchBar
+
+- [Reade](https://github.com/quinncomendant/Reade.lbaction) - LaunchBar action to interact with the Readwise and Reader APIs.
 
 ### Logseq
 
 - [logseq-readwise-reader-export](https://github.com/pstuifzand/logseq-readwise-reader-export) - Export blocks to Readwise Reader.
 - [logseq-readwise-plugin](https://github.com/hkgnp/logseq-readwise-plugin) - Pull Readwise highlights into Logseq.
 
-### Obsidian
-
-- [obsidian-readwise-reader](https://github.com/joerncodes/obsidian-readwise-reader) - An Obsidian plugin to publish notes to Readwise Reader.
-- [obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) - Sync Readwise highlights into your Obsidian vault.
-- [obsidian-readwise-inbox](https://github.com/TfTHacker/obsidian-readwise-inbox) - An inbox for processing Readwise highlights in Obsidian.
-
 ### Mastodon
 
 - [mastobot](https://github.com/nicolevanderhoeven/mastobot) - A Mastodon bot for sending toots to Readwise.
+
+### Obsidian
+
+- [obsidian-readwise-inbox](https://github.com/TfTHacker/obsidian-readwise-inbox) - An inbox for processing Readwise highlights in Obsidian.
+- [obsidian-readwise-reader](https://github.com/joerncodes/obsidian-readwise-reader) - An Obsidian plugin to publish notes to Readwise Reader.
+- [obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) - Sync Readwise highlights into your Obsidian vault.
 
 ### Pinboard
 
@@ -206,31 +226,31 @@ A collection of open-source tools for Readwise and Reader.
 - [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
 - [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) - Create a Word document from your highlights.
 - [mem-readwise-sync](https://github.com/riclib/mem-readwise-sync) - Sync books, articles, and highlights to Mem.ai.
-- [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
 - [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) - Export Miniflux articles to Readwise Reader.
+- [mrexpt2html](https://github.com/lockcp/mrexpt2html) - Import Moon+ Reader highlights to Readwise.
 - [plus-readwise](https://github.com/jchen1/plus-readwise) - Save snippets from the browser to Readwise.
-- [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) - A CLI to export highlights to Tana.io.
 - [raindrop-highlights-readwise](https://github.com/luhmann/raindrop-highlights-readwise) - Import highlights from Raindrop to Readwise.
+- [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
 - [Readform](https://github.com/fr0der1c/Readform) - Send full articles from paywalled news websites to Reader feed.
-- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
-- [readwise2directory](https://github.com/nicrivard/readwise2directory) - Update and store highlights locally (in markdown).
 - [readspace](https://github.com/maxprogram/readspace) - A semantic search tool for your Readwise highlights.
 - [readwise-craft-extension](https://github.com/mattflux/readwise-craft-extension?tab=readme-ov-file) - An extension to import highlight to craft.
-- [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) - Create EPUBs from your Readwise Reader inbox.
 - [readwise-feed](https://github.com/jckw/readwise-feed) - A passive social media feed of user's reading activity.
-- [reader-google-docs](https://github.com/marcus-crane/reader-google-docs) - Import Google Docs into Reader (archived).
+- [readwise-gpt-tagger](https://github.com/duartemartins/readwise-gpt-tagger) - Export all highlights to CSV, tag them using GPT, and update them on Readwise.
 - [readwise-list](https://github.com/rockiedo/readwise-lite) - A minimal version of the Readwise app.
 - [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) - Export markdown highlights to Readwise.
-- [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
-- [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
-- [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
-- [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
-- [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise-random-quote](https://github.com/TedisAgolli/readwise-random-quote) - A Next.js app that generators quotes from Readwise highlights.
+- [readwise-reader-desktop](https://github.com/ondrejfuhrer/readwise-reader-desktop) - A simple Electron app for the Readwise Reader web application.
+- [readwise-s3](https://github.com/fedragon/readwise-s3) - Backup Readwise.io content to AWS S3.
+- [readwise-template](https://github.com/natterstefan/readwise-template) - A Readwise export template for Roam (or other tools for thought).
 - [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
+- [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
+- [readwise2directory](https://github.com/nicrivard/readwise2directory) - Update and store highlights locally (in markdown).
+- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
+- [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
+- [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
 - [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
-- [readwise-gpt-tagger](https://github.com/duartemartins/readwise-gpt-tagger) - Export all highlights to CSV, tag them using GPT, and update them on Readwise.
+- [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) - A CLI to export highlights to Tana.io.
 
 ## Third-Party Integrations
 
@@ -265,17 +285,16 @@ A collection of official resources and content.
 ### Feedback & FAQ
 
 - [Customer Feedback & Feature Request Board](https://readwise.canny.io/) - The official customer feedback page.
-- [FAQ](https://help.readwise.io/) - The official Readwise FAQ page.
+- [FAQ](https://help.readwise.io/) – The official Readwise FAQ page.
+- [r/readwise](https://www.reddit.com/r/readwise/) – The official subreddit moderated by the Readwise team.
+- [Readwise Community Server (RCS)](https://discord.gg/readwise) – The official Discord server.
 
 ### Content & Guides
 
-- [Wisereads](https://wise.readwise.io/) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
+- [Wisereads](https://wise.readwise.io/) ([RSS](https://wise.readwise.io/feed/)) - A weekly newsletter featuring the most highlighted documents in Readwise during the past week.
+- [WiseUp!](https://wiseup.readwise.io/) ([RSS](https://wiseup.readwise.io/rss/)) - A weekly newsletter designed to help you make the most of Readwise and Reader.
 - [Reader Filter Guide 📖](https://readwise.notion.site/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640) - A how-to guide for document filtering and syntax in Reader.
 - [(Unofficial) - Ghostreader Prompts](https://github.com/Scarvy/ghostreader-prompts) - A collection of user-created prompts for Readwise Reader's "Copilot of Reading" feature Ghostreader.
-
-### Reader for Desktop (Windows & Mac)
-
-- [Download Link](https://readwise.io/read/download) - A link to download the Reader for Desktop (alpha) version.
 
 ## Contributing
 
@@ -283,6 +302,10 @@ Contributions are always welcome!
 
 **Please adhere to these guidelines:**
 
-1. Add the link: - [project-name](http://example.com/) - A short description ending with a period.
-    - Keep descriptions concise and succinct.
-2. Add a new section if necessary.
+1. Fork this repository on GitHub.
+2. Add a link with a concise description to README.md:
+```md
+- [project-name](https://example.com/) - A short description ending with a period.
+```
+3. Add a new section if necessary.
+4. Submit a GitHub pull request.
