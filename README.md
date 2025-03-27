@@ -3,7 +3,7 @@
 A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://readwise.io/read) libraries, plugins, software, and resources. For official software, visit [Readwise.io's GitHub Page](https://github.com/readwiseio).
 
 - [Awesome Readwise](#awesome-readwise)
-  - [Official apps](#official-apps)
+  - [Official Apps](#official-apps)
   - [Client Libraries](#client-libraries)
     - [API Documentation](#api-documentation)
     - [API Endpoint Collections](#api-endpoint-collections)
@@ -16,6 +16,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Datasette](#datasette)
     - [Discord](#discord)
     - [Kobo](#kobo)
+    - [LaunchBar](#launchbar)
     - [Logseq](#logseq)
     - [Mastodon](#mastodon)
     - [Obsidian](#obsidian)
@@ -40,7 +41,6 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Official Channels](#official-channels)
     - [Feedback \& FAQ](#feedback--faq)
     - [Content \& Guides](#content--guides)
-    - [Reader for Desktop (Windows \& Mac)](#reader-for-desktop-windows--mac)
   - [Contributing](#contributing)
 
 ## Official Apps
