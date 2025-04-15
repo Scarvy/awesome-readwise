@@ -13,6 +13,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Anki](#anki)
     - [Blinkist](#blinkist)
     - [Calibre](#calibre)
+    - [Claude Desktop](#claude-desktop)
     - [Datasette](#datasette)
     - [Discord](#discord)
     - [Kobo](#kobo)
@@ -116,6 +117,10 @@ A collection of open-source tools for Readwise and Reader.
 ### Calibre
 
 - [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) - An export plugin for Calibre.
+
+### Claude Desktop
+
+- [readwise-mpc](https://www.npmjs.com/package/@readwise/readwise-mcp) - an MCP server for Claude.
 
 ### Datasette
 
