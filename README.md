@@ -120,7 +120,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Claude Desktop
 
-- [readwise-mpc](https://www.npmjs.com/package/@readwise/readwise-mcp) - an MCP server for Claude.
+- [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - an MCP server for Claude.
 
 ### Datasette
 
