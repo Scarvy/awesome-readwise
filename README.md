@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scarvy-awesome-readwise-badge.png)](https://mseep.ai/app/scarvy-awesome-readwise)
+
 # Awesome Readwise
 
 A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://readwise.io/read) libraries, plugins, software, and resources. For official software, visit [Readwise.io's GitHub Page](https://github.com/readwiseio).
