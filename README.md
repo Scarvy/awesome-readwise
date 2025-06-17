@@ -16,7 +16,9 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Claude Desktop](#claude-desktop)
     - [Datasette](#datasette)
     - [Discord](#discord)
+    - [Kindle](#kindle)
     - [Kobo](#kobo)
+    - [KOReader](#koreader)
     - [LaunchBar](#launchbar)
     - [Logseq](#logseq)
     - [Mastodon](#mastodon)
@@ -130,12 +132,20 @@ A collection of open-source tools for Readwise and Reader.
 
 - [Readwise Discord bot](https://docs.readwise.io/readwise/docs/faqs/discord-bot) – The official Discord bot lets members save messages, links, and images to their Readwise Library.
 
+### Kindle
+
+- [kindle2readwise](https://github.com/biokraft/kindle2readwise) - A Python app for exporting Kindle highlights to Readwise.
+
 ### Kobo
 
 - [kobo-to-readwise](https://github.com/zakkolar/kobo-to-readwise) - Extract highlights from Kobo devices and convert them into a CSV file for Readwise.
 - [kobo_readwise](https://github.com/taiansu/kobo_readwise) - Send Kobo eReader bookmarks to Readwise.
 - [kobwise](https://github.com/osteel/kobwise) - Convert Kobo annotations into Readwise highlights.
 - [october](https://github.com/marcus-crane/october) - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
+
+### KOReader
+
+- [readwisereader](https://github.com/tomtom800/readwisereader) - A plugin to sync documents to KOReader.
 
 ### LaunchBar
 
