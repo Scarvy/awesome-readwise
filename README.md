@@ -266,6 +266,7 @@ A collection of open-source tools for Readwise and Reader.
 - [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
 - [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
 - [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) - A CLI to export highlights to Tana.io.
+- [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
 
 ## Third-Party Integrations
 
