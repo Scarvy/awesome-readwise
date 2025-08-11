@@ -239,6 +239,7 @@ A collection of open-source tools for Readwise and Reader.
 - [comments-to-readwise](https://github.com/marcus-crane/comments-to-readwise) - A basic extension for sending comments to Readwise as "tweets".
 - [diiggo-to-readwise](https://github.com/dexter-stpierre/diiggo-to-readwise) - Sync Diigo highlights to Readwise.
 - [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
+- [FeedWise](https://chromewebstore.google.com/detail/feedwise/mddkmjedifnddecckcjlfcoahjfgdcmb) - Transform your social media feeds into daily wisdom with Readwise highlights and Obsidian notes.
 - [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) - Create a Word document from your highlights.
 - [mem-readwise-sync](https://github.com/riclib/mem-readwise-sync) - Sync books, articles, and highlights to Mem.ai.
 - [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) - Export Miniflux articles to Readwise Reader.
