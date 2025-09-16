@@ -13,7 +13,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Anki](#anki)
     - [Blinkist](#blinkist)
     - [Calibre](#calibre)
-    - [Claude Desktop](#claude-desktop)
+    - [MCP - Model Context Protocol](#mcp---model-context-protocol)
     - [Datasette](#datasette)
     - [Discord](#discord)
     - [Kindle](#kindle)
@@ -120,9 +120,10 @@ A collection of open-source tools for Readwise and Reader.
 
 - [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) - An export plugin for Calibre.
 
-### Claude Desktop
+### MCP - Model Context Protocol
 
-- [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - a MCP server for Claude.
+- [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
+- [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) - A Node.js HTTP server that provides proper MCP over HTTP.
 
 ### Datasette
 
