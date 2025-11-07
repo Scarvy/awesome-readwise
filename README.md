@@ -124,7 +124,7 @@ A collection of open-source tools for Readwise and Reader.
 
 - [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 - [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) - A Node.js HTTP server that provides proper MCP over HTTP.
-- [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python HTTP MCP server.
+- [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
 ### Datasette
 
