@@ -20,6 +20,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [Kobo](#kobo)
     - [KOReader](#koreader)
     - [LaunchBar](#launchbar)
+    - [LiquidText](#liquidtext)
     - [Logseq](#logseq)
     - [Mastodon](#mastodon)
     - [Obsidian](#obsidian)
@@ -152,6 +153,10 @@ A collection of open-source tools for Readwise and Reader.
 ### LaunchBar
 
 - [Reade](https://github.com/quinncomendant/Reade.lbaction) - LaunchBar action to interact with the Readwise and Reader APIs.
+
+### LiquidText
+
+- [LT→R](https://gregwolanski.com/lt2r?ref=awesome-readwise) - Add grouped highlights to your imports from LiquidText into Readwise.
 
 ### Logseq
 
