@@ -7,6 +7,10 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
   - [Client Libraries](#client-libraries)
     - [API Documentation](#api-documentation)
     - [API Endpoint Collections](#api-endpoint-collections)
+  - [AI - Agent Skills, MCP, and CLI](#ai---agent-skills-mcp-and-cli)
+    - [Agent Skills](#agent-skills)
+    - [MCP](#mcp)
+    - [CLI](#cli)
   - [Tools](#tools)
     - [AI](#ai)
     - [Amplenote](#amplenote)
@@ -65,7 +69,6 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 - [pyreadwise](https://github.com/rwxd/pyreadwise) - A Python module for using the Readwise API.
 - [readwise-api](https://github.com/floscha/readwise-api) - An unofficial Python client for the Readwise Reader API.
-- [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) - A command-line interface for Readwise Reader.
 
 **Go:**
 
@@ -92,6 +95,27 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 - [readwise-postman](https://github.com/herczogzoltan/readwise-postman) - A Postman collection for Readwise API endpoints.
 - [readwise-bruno](https://github.com/Scarvy/readwise-bruno) - A Bruno collection for Readwise and Reader API endpoints.
+
+## AI - Agent Skills, MCP, and CLI
+
+### Agent Skills
+
+- [readwise-skills](https://github.com/readwiseio/readwise-skills) - The official agent skills from RW.
+- [readwise-skill](https://github.com/ryanlyn/readwise-skill) - A collection of agent skills and CLI for RW + Reader.
+
+### MCP
+
+- [readwise-mcp](https://github.com/readwiseio/readwise-mcp) - The official RW MCP (Deprecated)
+- [readwise-mcp-enhanced](https://github.com/arnaldo-delisio/readwise-mcp-enhanced) - A MCP server unifying RW Reader + RW with text processing and context optimization.
+
+### CLI
+
+- [readwise-cli](https://github.com/readwiseio/readwise-cli) - The official RW CLI.
+- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
+- [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) - A Python-based CLI for Readwise Reader.
+- [readwise-reader-cli](https://github.com/lis186/readwise-reader-cli) - A TS-based CLI for RW Reader API.
+- [readwise](https://github.com/thoreinstein/readwise) - A Gemini CLI extension for interfacing with your RW Reader highlights.
+- [readwise-rs](https://github.com/prasincs/readwise-rs) - A Rust-based CLI for RW.
 
 ## Tools
 
@@ -269,7 +293,6 @@ A collection of open-source tools for Readwise and Reader.
 - [readwise-ulusses](https://github.com/terror/readwise-ulysses) - Sync highlights from Readwise to Ulysses.
 - [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) - A script that pushes all quotes from a folder to Readwise.
 - [readwise2directory](https://github.com/nicrivard/readwise2directory) - Update and store highlights locally (in markdown).
-- [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) - Sync Readwise highlights to local files.
 - [readwise_to_discord](https://github.com/clement0910/readwise_to_discord) - Share notes and articles by sending Readwise data to Discord.
 - [rextract](https://github.com/zachwick/rextract) - A toolchain for moving Remarkable highlights to Readwise.
 - [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
