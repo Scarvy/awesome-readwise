@@ -20,6 +20,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [MCP - Model Context Protocol](#mcp---model-context-protocol)
     - [Datasette](#datasette)
     - [Discord](#discord)
+    - [justRead](#justread)
     - [Kindle](#kindle)
     - [Kobo](#kobo)
     - [KOReader](#koreader)
@@ -158,6 +159,10 @@ A collection of open-source tools for Readwise and Reader.
 ### Discord
 
 - [Readwise Discord bot](https://docs.readwise.io/readwise/docs/faqs/discord-bot) – The official Discord bot lets members save messages, links, and images to their Readwise Library.
+
+### justRead
+
+- [justRead](https://justread.app) - A native iOS/iPadOS EPUB, PDF, and audiobook reader with one-button export of all highlights (title, author, chapter, page, notes) to Readwise.
 
 ### Kindle
 
