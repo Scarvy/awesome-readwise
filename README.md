@@ -136,6 +136,7 @@ A collection of open-source tools for Readwise and Reader.
 
 - [readwise-anki](https://github.com/mattbarlow-sg/readwise-anki) - An unofficial Readwise add-on for Anki.
 - [readwise2anki](https://github.com/ethan-butler-alight/readwise2anki) - An Anki plugin to export Readwise highlights to Anki decks.
+- [readwise2anki](https://github.com/volker-fr/readwise2anki) - A CLI tool to sync Readwise highlights to Anki using AnkiConnect.
 
 ### Blinkist
 
@@ -298,6 +299,7 @@ A collection of open-source tools for Readwise and Reader.
 - [scribd-readwise-integration](https://github.com/micahlt/scribd-readwise-integration) - Send highlights from Scibd to Readwise.
 - [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) - A CLI to export highlights to Tana.io.
 - [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
+- [readwise-reader-filter](https://github.com/volker-fr/readwise-reader-filter) - A CLI tool to filter and manage Readwise Reader feed entries by configurable rules.
 
 ## Third-Party Integrations
 
