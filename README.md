@@ -230,6 +230,10 @@ A collection of open-source tools for Readwise and Reader.
   > Note: All of the shortcuts listed above were created by Chris.sk and were last updated on **2023-09-16**.
   > These shortcuts may become outdated over time, so please refer to the Discord conversation for the most recent updates. [here](https://discord.com/channels/886992134505398314/1092171483792556182).
 
+### Supernote by Ratta
+
+- [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application
+
 - **Other Apps:**
 
   - [Bear Note App Integration](https://benbailey.me/2023/06/03/how-i-sync.html) - User-built RW 1.0 integration with the Bear Note App.
