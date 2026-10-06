@@ -33,6 +33,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     - [RemNote](#remnote)
     - [Roam](#roam)
     - [Shortcuts (for iPhone and iPad)](#shortcuts-for-iphone-and-ipad)
+    - [Supernote by Ratta](#supernote-by-ratta)
     - [Shortform](#shortform)
     - [Telegram](#telegram)
     - [Twitter](#twitter)
@@ -232,7 +233,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Supernote by Ratta
 
-- [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application
+- [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 - **Other Apps:**
 
