@@ -307,6 +307,7 @@ A selection of products and services integrated with Readwise and/or Reader.
 
 - [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
   - [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
+- [JustRead](https://justread.app/) - EPUB, PDF and comic reader for iPhone and iPad that syncs highlights and notes to Readwise automatically.
 - [PopClip](https://www.popclip.app/extensions/#q=readwise) - Instant text actions to save highlights to Readwise.
 
 ### Notes Apps
