@@ -128,6 +128,7 @@ A collection of open-source tools for Readwise and Reader.
 - [readwise-chat](https://github.com/acmeyer/readwise-chat) - A chatbot that pulls highlights from your Readwise account, using the ChatGPT API.
 - [readwise-highlights-chat](https://github.com/intellectronica/readwise-highlights-chat/tree/main) - Chat over highlights with OpenAI, LangChain, and Chroma.
 - [smoothbrain-anki](https://github.com/smoothbrain-ai/smoothbrain-anki) - An Anki plugin to create flashcards from Readwise highlights using the OpenAI GPT.
+- [Author Watch](https://x.ai/bot/yMhfkV7jN2VbgL5HUJqYi) - A GrokBot template that follows writers you pick across the sites they publish on and notifies you only about genuinely new articles, with optional one-tap saves to Readwise Reader.
 
 ### Amplenote
 
@@ -160,6 +161,10 @@ A collection of open-source tools for Readwise and Reader.
 ### Discord
 
 - [Readwise Discord bot](https://docs.readwise.io/readwise/docs/faqs/discord-bot) – The official Discord bot lets members save messages, links, and images to their Readwise Library.
+
+### GrokBot
+
+- [Author Watch](https://x.ai/bot/yMhfkV7jN2VbgL5HUJqYi) - A Grok Bot template that follows writers you pick across the sites they publish on and notifies you only about genuinely new articles, with optional one-tap saves to Readwise Reader.
 
 ### Kindle
 
